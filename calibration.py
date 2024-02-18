@@ -4,6 +4,7 @@ import pyautogui as p
 import collections
 p.FAILSAFE = False
 
+
 # initialize video capture device
 cap = cv2.VideoCapture(0)
 
